@@ -2,6 +2,6 @@
 Changelog for package fluent_logger_ros
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.1.0 (2017-11-07)
+------------------
 - Initial release
