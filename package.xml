@@ -6,7 +6,7 @@
 
   <maintainer email="akio.code@gmail.com">Akiyoshi Ochiai</maintainer>
 
-  <Cicense>BSD 2-Clause</license>
+  <license>BSD 2-Clause</license>
 
   <buildtool_depend>catkin</buildtool_depend>
 
