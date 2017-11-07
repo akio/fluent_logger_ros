@@ -11,8 +11,8 @@ include(ExternalProject)
 
 ExternalProject_Add(
     build_libfluent
-    GIT_REPOSITORY https://github.com/m-mizutani/libfluent.git
-    GIT_TAG v1.1.0
+    URL https://github.com/m-mizutani/libfluent/archive/v1.1.0.zip
+    URL_MD5 83a67a80b8066f17b97be19993d4e990
     BUILD_IN_SOURCE YES
     CONFIGURE_COMMAND cmake -DCMAKE_INSTALL_PREFIX=${CATKIN_DEVEL_PREFIX}
 )
